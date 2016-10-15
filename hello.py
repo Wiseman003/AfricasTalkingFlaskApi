@@ -6,7 +6,8 @@ books = {
 	'name': 'Harry Potter and the priosoner',
 	'auther': 'jk. Rowling',
 	'category': 'Magic/Fiction',
-	'country' : 'Kenya'
+	'country' : 'Kenya',
+	'vaersion': "2.0.1"
 	'id': '4325345234'
 }
 
